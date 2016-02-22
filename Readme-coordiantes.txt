@@ -1,0 +1,1 @@
+Algorithm to convert location that raspberry pis give into coordinates to be inputed onto the heat map
